@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Corporate Travel Booking Tool - Travel_b6df23</name>
+   <tag></tag>
+   <elementGuidId>4c959814-23bc-4d4d-be52-0328eb794b99</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='e1']/div/div/div[3]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.p_.si27.a > span.span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Corporate Travel Booking Tool - Travel Management System&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7c01e926-2c96-4974-a7f8-deadbbef6c83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-lines</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>0132f670-3eab-4c93-b4d2-115840733b8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-truncate</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>9746b931-8372-47b6-9c5e-6bafba2700a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>74d12474-093c-4158-ae6a-91abc557eff0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Corporate Travel Booking Tool - Travel Management System</value>
+      <webElementGuid>c5a591a4-e758-4b2e-a62a-d8270d2cb24f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;e1&quot;)/div[@class=&quot;i_ div si32&quot;]/div[@class=&quot;i_ div si33&quot;]/div[@class=&quot;i_ div si49&quot;]/a[@class=&quot;p_ si27 a&quot;]/span[@class=&quot;span&quot;]</value>
+      <webElementGuid>f7b11098-bcf1-46fc-bf5b-2e884c8ebdee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Bodhi Academy/Page_travel agent booking software, uk.sift_4796cc/iframe__namemaster-1,master-a-1clicktrackUr_6140bc</value>
+      <webElementGuid>0c2e899e-f7a2-4b3c-9ead-b755a0a700d9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='e1']/div/div/div[3]/a/span</value>
+      <webElementGuid>93a6b9b9-5d24-44b0-8f33-27d784d95e45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='https://mybiz.makemytrip.com/mybiz/makemytrip'])[1]/following::span[1]</value>
+      <webElementGuid>f0d5f7c3-1d44-427c-86db-a8594d48c410</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MakeMyTrip'])[1]/following::span[1]</value>
+      <webElementGuid>a707fbdf-224b-401c-a6c8-95dcad80c80c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Corporate']/parent::*</value>
+      <webElementGuid>7d6b8706-d2ff-4dde-96ff-8b37f306dd74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span</value>
+      <webElementGuid>56960779-d822-4204-90d0-d47c79f39623</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Corporate Travel Booking Tool - Travel Management System' or . = 'Corporate Travel Booking Tool - Travel Management System')]</value>
+      <webElementGuid>13416929-62b7-4651-8b94-27c7c207b011</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

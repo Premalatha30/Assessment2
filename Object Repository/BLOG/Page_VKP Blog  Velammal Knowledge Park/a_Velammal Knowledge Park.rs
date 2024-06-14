@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Velammal Knowledge Park</name>
+   <tag></tag>
+   <elementGuidId>1a65eedb-ee5e-46a1-921f-37db92298231</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-115']/div[2]/header/h2/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.transition</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#post-115 >> internal:role=link[name=&quot;Velammal Knowledge Park&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>723e6c01-b7a2-4a4e-8e9e-001a0d433828</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>transition</value>
+      <webElementGuid>544ad8a0-120a-4f22-9772-545f40f1809b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://blog.vkp.co.in/index.php/2020/06/11/velammal-knowledge-park/</value>
+      <webElementGuid>f5f12fac-2f82-43dc-9a50-6c56acd96bab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>bookmark</value>
+      <webElementGuid>e8857711-f882-4e47-9fa3-ae517a789c84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Velammal Knowledge Park</value>
+      <webElementGuid>0d466ced-4aa8-4030-b6b6-e89d009094e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-115&quot;)/div[@class=&quot;sy-card__content p-4&quot;]/header[@class=&quot;entry-header&quot;]/h2[@class=&quot;entry-title&quot;]/a[@class=&quot;transition&quot;]</value>
+      <webElementGuid>c7698d3b-9779-4a24-83c7-289d21bd5648</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-115']/div[2]/header/h2/a[2]</value>
+      <webElementGuid>87d3a4e4-4c43-4119-b2f9-950a161ddb6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Velammal Knowledge Park')]</value>
+      <webElementGuid>5ea386a2-ede1-47f4-a41d-2e4d93843b51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Latest blog articles'])[1]/following::a[4]</value>
+      <webElementGuid>d1c3fc83-56f7-4334-a44c-c14f7139d901</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='youtube'])[1]/following::a[4]</value>
+      <webElementGuid>c750913a-7ba3-48ee-aa6e-d2759d126f4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='vkpadmin'])[1]/preceding::a[1]</value>
+      <webElementGuid>66e4f452-321e-4ff9-a9c2-ebadf5c7051c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://blog.vkp.co.in/index.php/2020/06/11/velammal-knowledge-park/')]</value>
+      <webElementGuid>e6c8bc42-1bd2-4e33-93a0-45f8a687ff3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>273eb1c8-9a89-47d2-99cb-463da3956c04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://blog.vkp.co.in/index.php/2020/06/11/velammal-knowledge-park/' and (text() = 'Velammal Knowledge Park' or . = 'Velammal Knowledge Park')]</value>
+      <webElementGuid>ba902a12-8336-4ce0-b5da-cf730483a02b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

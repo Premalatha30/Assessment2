@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Ponneri</name>
+   <tag></tag>
+   <elementGuidId>639935ac-b320-4eee-8d53-ce7f33b8222e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='ab-home']/div[3]/div/div[2]/div/div/div/div/div/div[2]/div/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.inner > h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Ponneri&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>96774a24-3dc4-4733-8215-e9c917e1caea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ponneri</value>
+      <webElementGuid>7391dbd4-a698-47ae-9e05-df65560069ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ab-home&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 schoolinner-content&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4&quot;]/div[@class=&quot;col-sm-12 inside&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 right&quot;]/div[@class=&quot;inner&quot;]/h3[1]</value>
+      <webElementGuid>170e846d-07db-4d12-84ae-727e6008b8fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='ab-home']/div[3]/div/div[2]/div/div/div/div/div/div[2]/div/h3</value>
+      <webElementGuid>fc9c080d-81bb-451d-bf04-773f7f5d561b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Our Schools'])[3]/following::h3[1]</value>
+      <webElementGuid>1901b092-7379-44c6-bc94-04ca5d30f6eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[2]/following::h3[1]</value>
+      <webElementGuid>ff411606-bf62-44c5-858c-5af90e689c9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The Velammal International School Kolkatta High Road Panchetti - 601 204 Tamil Nadu, India'])[1]/preceding::h3[1]</value>
+      <webElementGuid>36cd82a0-684d-4aec-82cf-0b282822ee6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='visit website'])[1]/preceding::h3[1]</value>
+      <webElementGuid>b0583174-d8f3-49dc-a474-44123c4bee92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ponneri']/parent::*</value>
+      <webElementGuid>8b1fb850-8a40-439e-85ba-a4cc38407b91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/h3</value>
+      <webElementGuid>8ea00459-c02c-41cf-992f-7662fe0db884</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Ponneri' or . = 'Ponneri')]</value>
+      <webElementGuid>0536e66e-ffcd-4b37-bb93-c74c63401244</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

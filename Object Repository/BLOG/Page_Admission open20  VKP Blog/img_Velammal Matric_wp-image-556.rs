@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Velammal Matric_wp-image-556</name>
+   <tag></tag>
+   <elementGuidId>7d5f603f-4cd1-43f9-8c93-69cd1811cd13</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-555']/div[2]/figure/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.wp-image-556</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#post-555 img</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>105485aa-977b-48ef-8d38-b04aeac1bbb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://blog.vkp.co.in/wp-content/uploads/2020/06/99290236_2968948839827020_7989585678272823296_n.jpg</value>
+      <webElementGuid>53875086-06cb-4aab-a9cd-1c602869d5e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wp-image-556</value>
+      <webElementGuid>94803a3c-44d2-420d-91d9-d405c03f980f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>srcset</name>
+      <type>Main</type>
+      <value>https://blog.vkp.co.in/wp-content/uploads/2020/06/99290236_2968948839827020_7989585678272823296_n.jpg 508w, https://blog.vkp.co.in/wp-content/uploads/2020/06/99290236_2968948839827020_7989585678272823296_n-212x300.jpg 212w</value>
+      <webElementGuid>063b63a4-d8a3-41e7-a709-24c98f6e7b95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>sizes</name>
+      <type>Main</type>
+      <value>(max-width: 508px) 100vw, 508px</value>
+      <webElementGuid>de55ddfc-8ec2-404c-ab44-ce568991787d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-555&quot;)/div[@class=&quot;entry-content&quot;]/figure[@class=&quot;wp-block-image size-large&quot;]/img[@class=&quot;wp-image-556&quot;]</value>
+      <webElementGuid>e2571476-13ba-4950-960e-eecc7c350d99</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-555']/div[2]/figure/img</value>
+      <webElementGuid>6211f652-6dc0-4e24-81c3-7eeefa48aed1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://blog.vkp.co.in/wp-content/uploads/2020/06/99290236_2968948839827020_7989585678272823296_n.jpg')]</value>
+      <webElementGuid>5ea9db43-1ffc-4ecc-bda9-f0c3790fee3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//figure/img</value>
+      <webElementGuid>497b34e7-6411-4a81-8609-6d8b4808da77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://blog.vkp.co.in/wp-content/uploads/2020/06/99290236_2968948839827020_7989585678272823296_n.jpg']</value>
+      <webElementGuid>39e4d5f3-0dc4-4181-8cfe-698276353561</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

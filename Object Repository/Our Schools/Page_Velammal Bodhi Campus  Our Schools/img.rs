@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>a7c87676-c22d-4eee-bff2-d2c105b49fd7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='ab-home']/div[3]/div/div[2]/div/div/div[2]/div/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-12.left.kolapakkamimg > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(2) > .col-sm-12 > .row > div > img</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>3fcca610-9582-4052-9289-23ae28c3fd10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>images/ponneri.jpg</value>
+      <webElementGuid>b7b71299-53da-46dd-ade1-070fd37eb4f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ab-home&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 schoolinner-content&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4&quot;]/div[@class=&quot;col-sm-12 inside&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 left kolapakkamimg&quot;]/img[1]</value>
+      <webElementGuid>1bc79f4f-8e06-4cf5-9f88-e2f1274b770f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='ab-home']/div[3]/div/div[2]/div/div/div[2]/div/div/div/img</value>
+      <webElementGuid>5de23352-b570-4a7c-af5c-7c9ec94057d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/img</value>
+      <webElementGuid>43276d86-8e77-4dd8-bc34-e3c21fc79a06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'images/ponneri.jpg']</value>
+      <webElementGuid>eb7aa556-ef6c-4c08-a6c1-cc095ce284e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Find Travel Agent Booking Software</name>
+   <tag></tag>
+   <elementGuidId>804e01aa-70c6-4a93-a356-1b17c10ff9c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='e2']/div/div/div/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#e2 > div.i_.div.si32 > div.i_.div.si33 > div.i_.div.si39 > a.p_.si27.a > span.span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Find Travel Agent Booking Software&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c9216c81-d543-420a-bd99-15a0b2b03119</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-lines</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>7b7782ee-90d3-40bb-9f77-6dedf33d16ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-truncate</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>be9a32e6-5969-4d2d-a85d-9fca3405457c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>17c85475-56b8-4113-af7b-0b2c9ea2426b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Find Travel Agent Booking Software</value>
+      <webElementGuid>95d5abbe-c63b-416a-87a6-8f7ced30d71b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;e2&quot;)/div[@class=&quot;i_ div si32&quot;]/div[@class=&quot;i_ div si33&quot;]/div[@class=&quot;i_ div si39&quot;]/a[@class=&quot;p_ si27 a&quot;]/span[@class=&quot;span&quot;]</value>
+      <webElementGuid>f92834df-85e8-4558-bf2b-179dcf6444e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Bodhi Academy/Page_vbaonline.in/iframe_vbaonline.in_namemaster-1,master-a-1_a3da55</value>
+      <webElementGuid>2d91a03e-e857-4687-a1f6-61c9094a96c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='e2']/div/div/div/a/span</value>
+      <webElementGuid>90cc57d2-2e41-44e0-81b8-32a045ed7b29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='➤ Visit Website'])[2]/following::span[1]</value>
+      <webElementGuid>8c664d19-14ae-4e52-9bf1-be1dc7a644ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Why this ad?'])[2]/following::span[4]</value>
+      <webElementGuid>2fad1a3f-2b79-422a-88aa-50b0f4fba218</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sponsored'])[3]/preceding::span[2]</value>
+      <webElementGuid>66a9d44b-abb4-4703-981f-138511ccbe73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Find Travel Agent']/parent::*</value>
+      <webElementGuid>ec4f50a8-e236-42ed-8738-53274ef6c7d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/a/span</value>
+      <webElementGuid>3f8b1e5f-94ab-440e-be70-aa435e8641eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Find Travel Agent Booking Software' or . = 'Find Travel Agent Booking Software')]</value>
+      <webElementGuid>7496a7b1-019f-4166-84d8-42e85f670ccc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

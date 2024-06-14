@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_visit                                    _0e63a6</name>
+   <tag></tag>
+   <elementGuidId>1ac8d795-9cb1-4658-b83e-5769da5d6550</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='ab-home']/div[3]/div/div[2]/div/div/div[2]/div/div/div[2]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(2) > .col-sm-12 > .row > div:nth-child(2) > .inner > a</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2aa3bafb-5eb6-4d32-8b34-fec876aed159</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://vbckolapakkam.com/</value>
+      <webElementGuid>9db68a1c-ee3b-4283-8ff9-73f03921c276</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>b89db5e0-e5fe-44ae-9123-a66959d706d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>visit
+                                                website</value>
+      <webElementGuid>82f5be05-904a-4da7-8460-1fb39de189f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ab-home&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 schoolinner-content&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4&quot;]/div[@class=&quot;col-sm-12 inside&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 right&quot;]/div[@class=&quot;inner&quot;]/a[1]</value>
+      <webElementGuid>694da68d-d78c-44d3-afc2-77b510bd9656</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='ab-home']/div[3]/div/div[2]/div/div/div[2]/div/div/div[2]/div/a</value>
+      <webElementGuid>119c37ad-0592-43bc-94ab-ef27a22e38ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'visit
+                                                website')]</value>
+      <webElementGuid>802df27c-92a7-4311-af37-273a11fd8229</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AV Garden Jayapriya nagar, Kolapakkam, porur, chennai 600128'])[1]/following::a[1]</value>
+      <webElementGuid>f806b346-2027-4b98-9e84-a8c24d2a9d6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kolapakkam'])[1]/following::a[1]</value>
+      <webElementGuid>a8e2df96-c5e6-4c6f-9772-b6bcaf93570e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vellore'])[1]/preceding::a[1]</value>
+      <webElementGuid>7fdb74df-32c5-47a0-9641-9a043b93aec0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ezhil Nagar, Periya Allapuram, Thorapadi Post, Vellore - 632001, Tamil Nadu, India.'])[1]/preceding::a[1]</value>
+      <webElementGuid>660a43db-9dbd-42cb-9541-e72c73b6480e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://vbckolapakkam.com/')]</value>
+      <webElementGuid>6e59f607-2340-45f2-ae59-d2df31159179</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/a</value>
+      <webElementGuid>d78a8ee2-6af2-4e5f-8013-7b351e1d20b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://vbckolapakkam.com/' and (text() = 'visit
+                                                website' or . = 'visit
+                                                website')]</value>
+      <webElementGuid>4a52f65d-f6fd-4722-bfb6-4af7288f21c3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

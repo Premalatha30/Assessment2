@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span</name>
+   <tag></tag>
+   <elementGuidId>c7caeca8-5531-41ec-8bf2-6043239ddecc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div/div/div/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.fancybox-nav.fancybox-next > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Next&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>dfdc4f63-b70f-45b3-986e-38e73dd54089</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fancybox-margin fancybox-lock&quot;]/body[1]/div[@class=&quot;fancybox-overlay fancybox-overlay-fixed&quot;]/div[@class=&quot;fancybox-wrap fancybox-desktop fancybox-type-image fancybox-opened&quot;]/div[@class=&quot;fancybox-skin&quot;]/div[@class=&quot;fancybox-outer&quot;]/a[@class=&quot;fancybox-nav fancybox-next&quot;]/span[1]</value>
+      <webElementGuid>2ac75b6a-3230-4f9e-b994-8d41b5280968</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/a/span</value>
+      <webElementGuid>d97d8e0a-6278-4b17-b004-ada6163d9870</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

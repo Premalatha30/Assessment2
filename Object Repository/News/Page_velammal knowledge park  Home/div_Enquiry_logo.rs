@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Enquiry_logo</name>
+   <tag></tag>
+   <elementGuidId>ff7b5095-83eb-4b80-bbe4-e393631f1e7c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.overlay > div.logo</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;The Velammal International School (TVIS)&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d7a34a51-18cf-4743-9aaf-7096cbfc4eb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>logo</value>
+      <webElementGuid>56b84759-ef20-4617-80ce-72957c8a6590</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/section[@class=&quot;col-md-10 offset-md-1 col-sm-12 school&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4 bg_one&quot;]/a[1]/div[@class=&quot;overlay&quot;]/div[@class=&quot;logo&quot;]</value>
+      <webElementGuid>b5433848-27bd-42e5-b3a8-9f6bf070fba5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div[2]</value>
+      <webElementGuid>41ff3fc0-1275-4f93-936f-84654d0e2039</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
